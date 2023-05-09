@@ -12,8 +12,6 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 
 <!-- [![website](./img/globe-dark.svg)]() -->
 
---
-
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/_jtkane#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/_jtkane#gh-dark-mode-only)
@@ -21,6 +19,8 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/james-kane-3190b8276/#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/james-kane-3190b8276/gh-dark-mode-only)
 &nbsp;&nbsp;
+
+---
 
 ### Languages and Tools:
 
