@@ -1,4 +1,4 @@
-# :person_in_lotus_position: James Kane
+# :lotus_position: James Kane
 
 **`I'm an Ethereum DApp Developer, Writer, and Sci-Fi Enjoyer`**
 
