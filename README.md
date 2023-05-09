@@ -1,4 +1,4 @@
-![Ethereum Cover Image](https://dl.dropboxusercontent.com/s/me11gbbwckf9edy/ethereum.jpeg?dl=0)
+<img alt="ethereum cover" height="200"src="https://dl.dropboxusercontent.com/s/me11gbbwckf9edy/ethereum.jpeg?dl=0">
 
 # James Kane
 
