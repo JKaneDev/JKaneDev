@@ -41,6 +41,6 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 
 ---
 
-**:zap: GitHub Stats**
+### :zap: GitHub Stats
 
 <img align="left" alt="JKaneDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JKaneDev&show_icons=true&&theme=dark&hide_border=false" />
