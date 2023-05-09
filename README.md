@@ -1,8 +1,10 @@
-# :ethereum: James Kane
+# :person_in_lotus_position: James Kane
 
 **`I'm an Ethereum DApp Developer, Writer, and Sci-Fi Enjoyer`**
 
-### [Portfolio]()
+#### [Portfolio]()
+
+### About me
 
 I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My mission is to contribute to the decentralization of the economy and move us towards a world where we can be more autonomous, sovereign and creative. Please see the link above to access my Personal Projects, all of which were built from the ground up with a blend of different tools and technologies.
 
@@ -30,19 +32,14 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="30px" src="./img/terminal-light.svg" />
-<!-- <img align="left" alt="Terminal" width="30px" src="./img/terminal-dark.svg" /> -->
+<!-- <img align="left" alt="Terminal" width="30px" src="./img/terminal-light.svg" /> -->
+<img align="left" alt="Terminal" width="30px" src="./img/terminal-dark.svg" />
 
 <br />
 <br />
 
 ---
 
-<summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: GitHub Stats</summary>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="JKaneDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JKaneDev&show_icons=true&&theme=dark&hide_border=false" />
-
-</details>
+<img align="left" alt="JKaneDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JKaneDev&show_icons=true&&theme=dark&hide_border=false" />
