@@ -1,4 +1,4 @@
-<img alt="ethereum cover" height="250px" width="700px" src="https://dl.dropboxusercontent.com/s/me11gbbwckf9edy/ethereum.jpeg?dl=0">
+<img alt="ethereum cover" height="300px" width="100%" src="https://dl.dropboxusercontent.com/s/me11gbbwckf9edy/ethereum.jpeg?dl=0">
 
 # James Kane
 
