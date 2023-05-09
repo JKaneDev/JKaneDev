@@ -18,9 +18,6 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/james-kane-3190b8276/#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/james-kane-3190b8276/gh-dark-mode-only)
-&nbsp;&nbsp;
-
-<br />
 
 ---
 
