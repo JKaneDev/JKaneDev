@@ -11,7 +11,8 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 ### Connect with me:
 
 <!-- [![website](./img/globe-dark.svg)]() -->
-<br />
+
+--
 
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/_jtkane#gh-light-mode-only)
