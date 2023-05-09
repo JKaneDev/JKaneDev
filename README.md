@@ -1,5 +1,3 @@
-<img alt="ethereum cover" height="300px" width="100%" src="https://dl.dropboxusercontent.com/s/me11gbbwckf9edy/ethereum.jpeg?dl=0">
-
 # James Kane
 
 **`I'm an Ethereum DApp Developer, Writer, and Sci-Fi Enjoyer`**
