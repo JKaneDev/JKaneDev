@@ -21,7 +21,6 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 &nbsp;&nbsp;
 
 <br />
-<br />
 
 ---
 
