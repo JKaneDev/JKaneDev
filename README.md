@@ -1,4 +1,4 @@
-# :lotus_position: James Kane
+# James Kane
 
 **`I'm an Ethereum DApp Developer, Writer, and Sci-Fi Enjoyer`**
 
@@ -11,6 +11,7 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 ### Connect with me:
 
 <!-- [![website](./img/globe-dark.svg)]() -->
+<br />
 
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/_jtkane#gh-light-mode-only)
@@ -40,6 +41,6 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+**:zap: GitHub Stats**
 
 <img align="left" alt="JKaneDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JKaneDev&show_icons=true&&theme=dark&hide_border=false" />
