@@ -13,9 +13,9 @@ I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My miss
 <!-- [![website](./img/globe-dark.svg)]() -->
 
 &nbsp;&nbsp;
-<img align="left" alt="twitter" width="30px" src="https://dl.dropboxusercontent.com/s/mgyby350ubfgznr/twitter.png?dl=0" style="padding-right:10px;" />
+<a href="https://twitter.com/_jtkane"><img align="left" alt="twitter" width="30px" src="https://dl.dropboxusercontent.com/s/mgyby350ubfgznr/twitter.png?dl=0" style="padding-right:10px;" /></a>
 &nbsp;&nbsp;
-<img align="left" alt="linked in" width="30px" src="https://dl.dropboxusercontent.com/s/hvlk8t72sx2k58d/linkedin.png?dl=0" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/james-kane-3190b8276/"><img align="left" alt="linked in" width="30px" src="https://dl.dropboxusercontent.com/s/hvlk8t72sx2k58d/linkedin.png?dl=0" style="padding-right:10px;" /></a>
 
 ---
 
