@@ -2,7 +2,7 @@
 
 **`I'm an Ethereum DApp Developer, Writer, and Sci-Fi Enjoyer`**
 
-#### [Portfolio]()
+#### [Portfolio](jkanedev.github.io/portfolio/)
 
 ### About me
 
