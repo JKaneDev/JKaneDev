@@ -6,7 +6,7 @@
 
 ### About me
 
-I'm a full-stack Solidity Developer & Writer with an obsession for Web3. My mission is to contribute to the innovations within Blockchain technology and drive user adoption with user-friendly, performant dApps - moving us towards a world where we can be more autonomous, sovereign and creative. Please see the link above to access my Personal Projects, all of which were built from the ground up with a blend of different tools and technologies.
+I'm a Smart Contract Developer / Front-End Developer with a strong passion for Blockchain Technology. My mission is to contribute to the innovations within Blockchain technology and drive user adoption with user-friendly, performant dApps - moving us towards a world where we can be more autonomous, sovereign and creative. Please see the link above to access my Personal Projects, all of which were built from the ground up with a blend of different tools and technologies.
 
 ### Connect with me:
 
