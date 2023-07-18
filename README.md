@@ -1,6 +1,6 @@
 # James Kane
 
-**`I'm an Ethereum DApp Developer, Writer, and Sci-Fi Enjoyer`**
+**`I'm a Smart Contract Developer with a knack for performant front-ends, also a weekend Sci-Fi Enjoyer`**
 
 #### [Portfolio](http://jkanedev.github.io/portfolio/)
 
