@@ -1,6 +1,6 @@
 # James Kane
 
-**`I'm a Smart Contract Developer with a knack for performant front-ends, also a weekend Sci-Fi Enjoyer`**
+**`Smart Contract aficionado and certified crypto bro`**
 
 #### [Portfolio](http://jkanedev.github.io/portfolio/)
 
