@@ -13,8 +13,6 @@ I'm a Smart Contract Developer / Front-End Developer with a strong passion for B
 <!-- [![website](./img/globe-dark.svg)]() -->
 
 &nbsp;&nbsp;
-<a href="https://twitter.com/_jtkane"><img align="left" alt="twitter" width="30px" src="https://dl.dropboxusercontent.com/s/mgyby350ubfgznr/twitter.png?dl=0" style="padding-right:10px;" /></a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/james-kane-3190b8276/"><img align="left" alt="linked in" width="30px" src="https://dl.dropboxusercontent.com/s/hvlk8t72sx2k58d/linkedin.png?dl=0" style="padding-right:10px;" /></a>
 
 ---
