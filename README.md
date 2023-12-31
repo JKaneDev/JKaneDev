@@ -1,12 +1,12 @@
 # James Kane
 
-**`Smart Contract aficionado and certified crypto bro`**
+**`Solidity Smart Contract & React Developer`**
 
 #### [Portfolio](http://jkanedev.github.io/portfolio/)
 
 ### About me
 
-I'm a Smart Contract Developer / Front-End Developer with a strong passion for Blockchain Technology. My mission is to contribute to the innovations within Blockchain technology and drive user adoption with user-friendly, performant dApps - moving us towards a world where we can be more autonomous, sovereign and creative. Please see the link above to access my Personal Projects, all of which were built from the ground up with a blend of different tools and technologies.
+I'm a Solidity Smart Contract & React Developer with an obsession for Blockchain tech and cryptocurrency. My mission is to be at the forefront of innovations in the industry and drive user adoption with user-friendly, performant dApps - moving us towards a world where we can be more autonomous, sovereign and creative. Please see the link above to access my Personal Projects, all of which were built from the ground up with a blend of the most in-demand tools and technologies.
 
 ### Connect with me:
 
@@ -36,7 +36,3 @@ I'm a Smart Contract Developer / Front-End Developer with a strong passion for B
 <br />
 
 ---
-
-### :zap: GitHub Stats
-
-<img align="left" alt="JKaneDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JKaneDev&show_icons=true&&theme=dark&hide_border=false" />
