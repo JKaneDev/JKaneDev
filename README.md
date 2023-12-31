@@ -13,7 +13,7 @@ I'm a Solidity Smart Contract & React Developer with an obsession for Blockchain
 <!-- [![website](./img/globe-dark.svg)]() -->
 
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/james-kane-3190b8276/"><img align="left" alt="linked in" width="30px" src="[https://dl.dropboxusercontent.com/s/hvlk8t72sx2k58d/linkedin.png?dl=0](https://www.dropbox.com/scl/fi/qt57bc6e7b8pld75kaehe/linkedin.png?rlkey=q6c379gxl8sorkhz7l1qptw47&dl=0)" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/james-kane-3190b8276/"><img align="left" alt="linked in" width="30px" src="https://dl.dropboxusercontent.com/s/hvlk8t72sx2k58d/linkedin.png?raw=1" style="padding-right:10px;" /></a>
 
 ---
 
