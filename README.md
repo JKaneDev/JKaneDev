@@ -1,6 +1,6 @@
 # James Kane
 
-**`Solidity Smart Contract & React Developer`**
+**`Full-Stack Ethereum DApp Developer`**
 
 #### [Portfolio](http://jkanedev.github.io/portfolio/)
 
