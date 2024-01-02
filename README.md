@@ -13,7 +13,7 @@ I'm a Solidity Smart Contract & React Developer with an obsession for Blockchain
 <!-- [![website](./img/globe-dark.svg)]() -->
 
 &nbsp;&nbsp;
-![LinkedIn](https://drive.google.com/uc?export=view&id=11uX9VkxNqeW9jBHes2LD90ZKqTGMvs2k)
+![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg)
 
 ---
 
