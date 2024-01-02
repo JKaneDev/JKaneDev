@@ -19,6 +19,10 @@ I'm a Full-Stack Ethereum DApp Developer with an obsession for Blockchain tech a
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JKaneDev&layout=donut-vertical)](https://github.com/JKaneDev/github-readme-stats)
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
