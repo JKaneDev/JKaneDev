@@ -19,6 +19,12 @@ I'm a Solidity Smart Contract & React Developer with an obsession for Blockchain
 
 ---
 
+### Github Stats
+
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=JKaneDev&show_icons=true&theme=radical)](https://github.com/JKaneDev/github-readme-stats)
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
