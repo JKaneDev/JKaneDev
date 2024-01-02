@@ -21,7 +21,7 @@ I'm a Solidity Smart Contract & React Developer with an obsession for Blockchain
 
 ### Github Stats
 
-[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=JKaneDev&show_icons=true&theme=transparent&title_color=0cc0df&bg_color=fff)](https://github.com/JKaneDev/github-readme-stats)
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=JKaneDev&include_all_commits=true&show_icons=true&theme=transparent&title_color=0cc0df&bg_color=fff)](https://github.com/JKaneDev/github-readme-stats)
 
 ---
 
