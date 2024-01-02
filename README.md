@@ -6,7 +6,7 @@
 
 ### About me
 
-I'm a Solidity Smart Contract & React Developer with an obsession for Blockchain tech and cryptocurrency. My mission is to be at the forefront of innovations in the industry and drive user adoption with user-friendly, performant dApps - moving us towards a world where we can be more autonomous, sovereign and creative. Please see the link above to access my Personal Projects, all of which were built from the ground up with a blend of the most in-demand tools and technologies.
+I'm a Full-Stack Ethereum DApp Developer with an obsession for Blockchain tech and cryptocurrency. My mission is to be at the forefront of innovations in the industry and drive user adoption with user-friendly, performant dApps - moving us towards a world where we can be more autonomous, sovereign and creative. Please see the link above to access my Personal Projects, all of which were built from the ground up with a blend of the most in-demand tools and technologies.
 
 ### Connect with me:
 
@@ -21,7 +21,7 @@ I'm a Solidity Smart Contract & React Developer with an obsession for Blockchain
 
 ### Github Stats
 
-[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=JKaneDev&include_all_commits=true&show_icons=true&theme=transparent&title_color=0cc0df&bg_color=fff)](https://github.com/JKaneDev/github-readme-stats)
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=JKaneDev&include_all_commits=true&show_icons=true&theme=transparent&title_color=0cc0df&bg_color=black&border_color=0cc0df)](https://github.com/JKaneDev/github-readme-stats)
 
 ---
 
