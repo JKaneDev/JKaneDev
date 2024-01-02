@@ -21,7 +21,7 @@ I'm a Full-Stack Ethereum DApp Developer with an obsession for Blockchain tech a
 
 ### Github Stats
 
-[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=JKaneDev&include_all_commits=true&show_icons=true&theme=transparent&title_color=0cc0df&bg_color=#000000&border_color=0cc0df)](https://github.com/JKaneDev/github-readme-stats)
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=JKaneDev&include_all_commits=true&show_icons=true&title_color=0cc0df&bg_color=#000000&border_color=0cc0df)](https://github.com/JKaneDev/github-readme-stats)
 
 ---
 
