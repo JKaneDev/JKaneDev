@@ -2,8 +2,6 @@
 
 **`Full-Stack Ethereum DApp Developer`**
 
-#### [Portfolio](http://jkanedev.github.io/portfolio/)
-
 ### About me
 
 I'm a Full-Stack Ethereum DApp Developer with an obsession for Blockchain tech and cryptocurrency. My mission is to be at the forefront of innovations in the industry and drive user adoption with user-friendly, performant dApps - moving us towards a world where we can be more autonomous, sovereign and creative. Please see the link above to access my Personal Projects, all of which were built from the ground up with a blend of the most in-demand tools and technologies.
